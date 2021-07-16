@@ -1,4 +1,4 @@
 :dad:Ah, a new fair maiden has come in search of true love!
 :bf:Beep bo bop
 :dad:A serenade between gentlemen shall decide where her beautiful heart shall reside.
-:bf:void StartTransferal(Soulbf_soul){ switch (admin) { case "user": admin == "???" } GrantOwnership(admin) Console.Write("You are next.") } Please subscribe to PhantomFear
+:bf:void StartTransferal(Soulbf_soul){ switch (admin) { case "user": admin == "???" } GrantOwnership(admin) Console.Write("You are next.") } Please support to PhantomFear
